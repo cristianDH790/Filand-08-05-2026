@@ -60,7 +60,7 @@ database.default.DBDriver = MySQLi
 ## 🔗 Proyecto Relacionado (Frontend)
 
 Este backend funciona junto con el panel administrador desarrollado en Angular:  
-👉 [FilandAngular]()
+👉 [FilandAngular](https://admin.finlandinstitute.com)
 
 ## 📸 Vista en Producción
 
