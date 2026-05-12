@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  Este proyecto es una <strong>API RESTful</strong> desarrollada con <strong>CodeIgniter 4</strong>, diseñada para proporcionar la infraestructura backend del sistema <strong>Pelucas Perú</strong>.  
+  Este proyecto es una <strong>API RESTful</strong> desarrollada con <strong>CodeIgniter 4</strong>, diseñada para proporcionar la infraestructura backend del sistema <strong>Instituto Cultural Nórdico Peruano Finlandés</strong>.  
   Se encarga de gestionar datos de usuarios, cursos,  configuraciones y más, garantizando una comunicación segura y eficiente con el frontend desarrollado en Angular.
 </p>
 
